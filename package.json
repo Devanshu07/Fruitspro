@@ -1,0 +1,14 @@
+{
+  "name": "fruitspro",
+  "version": "1.0.0",
+  "description": "mongo db",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devanshu",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.2.2"
+  }
+}
